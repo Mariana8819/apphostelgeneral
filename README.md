@@ -1,3 +1,11 @@
+1-limpieza de carpetas iniciales : App.text.js / logo.svg / setupTest.js / App.css
+2- rutas en App ,dspues colocar *Browserrouter en index.js (instalar react.router.dom)
+3- Header: displayDesktop(), displayMobile()
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
