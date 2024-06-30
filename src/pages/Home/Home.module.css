@@ -1,0 +1,23 @@
+/* Home.css */
+
+.banner {
+    background: url('https://via.placeholder.com/1200x400') no-repeat center center;
+    background-size: cover;
+    color: rgb(180, 235, 180);
+    padding: 100px 0;
+    text-align: left;
+}
+
+.banner h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.services, .featured-rooms {
+    text-align: center;
+}
+
+.services h2, .featured-rooms h2 {
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+}
